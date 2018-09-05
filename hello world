@@ -3,6 +3,8 @@
 
 	int main()
 	{
-		cout << "Hello World!";		return  ppp	
+		cout << "Hello World!";	>>
+	        count<<"\nthis	 is basic c programs>>;
+		
 	}
 
